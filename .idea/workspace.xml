@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c7cce96-13cc-4056-bc9d-9f0a4a57e3bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/JANUARY-New.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10012025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AppendData.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GetFinancialYearFilter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GetUserDetails.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyToken.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WriteinExcel.py" afterDir="false" />
+    <list default="true" id="4c7cce96-13cc-4056-bc9d-9f0a4a57e3bc" name="Changes" comment="january2025 work">
+      <change afterPath="$PROJECT_DIR$/PCMC-API/Get_Token.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ysc101&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ysc101/NewTest.git&quot;,
+    &quot;accountId&quot;: &quot;14e13180-c6df-4954-ab41-aceeb287dcc7&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2rQJV3OAwcV5Te9jk1tskyFoJt6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -48,12 +50,13 @@
     "Python.AppendData.executor": "Run",
     "Python.GetFinancialYearFilter.executor": "Run",
     "Python.GetUserDetails.executor": "Run",
+    "Python.Get_Token.executor": "Debug",
     "Python.WriteinExcel.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.10012025">
+  <component name="RunManager" selected="Python.Get_Token">
     <configuration name="10012025" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="JANUARY-New" />
       <option name="ENV_FILES" value="" />
@@ -120,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="GetUserDetails" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Get_Token" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="JANUARY-New" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,11 +132,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PCMC-API" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GetUserDetails.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PCMC-API/Get_Token.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Get_Token" />
         <item itemvalue="Python.10012025" />
         <item itemvalue="Python.GetFinancialYearFilter" />
         <item itemvalue="Python.AppendData" />
         <item itemvalue="Python.WriteinExcel" />
-        <item itemvalue="Python.GetUserDetails" />
       </list>
     </recent_temporary>
   </component>
@@ -190,6 +193,27 @@
       <option name="presentableId" value="Default" />
       <updated>1736485385880</updated>
     </task>
+    <task id="LOCAL-00001" summary="january2025 work">
+      <option name="closed" value="true" />
+      <created>1736511462482</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736511462482</updated>
+    </task>
+    <task id="LOCAL-00002" summary="january2025 work">
+      <option name="closed" value="true" />
+      <created>1736511638344</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736511638344</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="january2025 work" />
+    <option name="LAST_COMMIT_MESSAGE" value="january2025 work" />
   </component>
 </project>
