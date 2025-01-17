@@ -8,8 +8,8 @@ headers={ "Authorization": f"Bearer {bearer_token}"}
 payload={
   "formdata": {
     "ecsdate": "2025-01-14T14:45:27.840Z",
-    "ecsnumber": 1149,
-    "chequenumber": 55296,
+    "ecsnumber": 1285,
+    "chequenumber": 385296,
     "chequeDate": "2025-01-10T01:15:27.840Z",
     "chequeamount": 4000,
     "debitaccountnumber": "60507106878",
