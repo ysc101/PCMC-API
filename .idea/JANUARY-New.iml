@@ -8,5 +8,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="PCMCRobotAPI" />
     <orderEntry type="module" module-name="ZPFMS_API_AUTOMATION" />
+    <orderEntry type="module" module-name="Selenium-Python-Pytest" />
+    <orderEntry type="module" module-name="LPRS" />
   </component>
 </module>

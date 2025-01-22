@@ -1,5 +1,5 @@
 import subprocess
-script=["Get_Token.py","ECSPush.py"]
+scripts=["Get_Token.py","ECSPush.py","UpdatePayee.py"]
 
-for script in script:
-    subprocess.run(["python",script])
+for script in scripts:
+    subprocess.run(["python",script]    )
