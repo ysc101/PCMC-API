@@ -4,5 +4,6 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../LPRS" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../Selenium-Python-Pytest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ZPFMSBehave" vcs="Git" />
   </component>
 </project>
