@@ -3,7 +3,9 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../LPRS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../PCMC-API-Pytest" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../Selenium-Python-Pytest" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../ZPFMSBehave" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ZPFMSRobot" vcs="Git" />
   </component>
 </project>

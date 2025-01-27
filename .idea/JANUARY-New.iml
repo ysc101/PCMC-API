@@ -13,5 +13,7 @@
     <orderEntry type="module" module-name="ZPFMSBehave" />
     <orderEntry type="module" module-name="ZPFMSRobot" />
     <orderEntry type="module" module-name="BehaveFrameworkNew" />
+    <orderEntry type="module" module-name="PCMC-API-Pytest" />
+    <orderEntry type="module" module-name="LPRS_SNA_API" />
   </component>
 </module>
